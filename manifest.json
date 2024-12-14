@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Codeforces username hidder",
+  "version": "1.0",
+  "description": "Easily hide your username on Codeforces",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Hide username"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://codeforces.com/*"],
+      "js": ["changeUsername.js"]
+    }
+  ]
+}
