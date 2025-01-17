@@ -34,6 +34,9 @@ Follow these steps to load and use this extension:
 ## Drawbacks  
 - **Carrot Extension Compatibility**: If you are using the **Carrot** extension, which predicts your performance and rating on Codeforces, it may not function properly. This is because the username is replaced with "Rahasya," preventing Carrot from identifying your account and displaying personalized data.  
 
+## ⭐ Star the Project  
+If you find this extension helpful, please give it a star 🌟 on GitHub! You can do so by clicking the **"Star"** button at the top-right corner of this repository's page.
+
 
 ## How It Works  
 The extension uses a simple content script to detect and replace your username on Codeforces pages.  
