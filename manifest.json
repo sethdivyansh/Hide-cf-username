@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Codeforces username hidder",
+  "name": "Codeforces username hider",
   "version": "1.0",
   "description": "Easily hide your username on Codeforces",
   "permissions": ["activeTab", "scripting"],
